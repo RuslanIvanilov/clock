@@ -1,4 +1,4 @@
-  #include <QtWidgets>
+#include <QtWidgets>
 #include "obclock.h"
 
 ObClock::ObClock(QWidget *parent)
